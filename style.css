@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Inknut Antiqua', sans-serif !important;
+  margin-top: 50px;
+}
+body {
+  font-family: 'Roboto Slab', sans-serif !important;
+  margin-top: 50px;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
